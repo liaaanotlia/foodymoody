@@ -1,0 +1,254 @@
+svg {
+  height: 2em;
+}
+.about-section {
+  padding-top: 12em;
+  padding-bottom: 6.5em;
+}
+.about-section p {
+  text-align: justify;
+}
+.recommendation-section {
+  padding-top: 12em;
+}
+.recommendation-section .container .row {
+  padding-top: 5px;
+}
+.contact-section {
+  padding-top: 11em;
+  padding-bottom: 9em;
+}
+.desc-yu-djum .row .desc-yu-djum-img {
+  flex: 1 1 20rem;
+}
+.desc-yu-djum .row .desc-yu-djum-img img {
+  width: 440px;
+  height: 340px;
+  padding-left: 16px;
+  padding-top: 0.7rem;
+}
+.desc-yu-djum .row .content {
+  flex: 1 1 45rem;
+  padding: 0 1rem;
+}
+.desc-yu-djum .row .content h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+.desc-yu-djum .row .content p {
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
+  font-weight: 100;
+  line-height: 1.6;
+  padding-top: 2rem;
+}
+.desc-yu-djum h2 {
+  padding: 4rem 7% 0;
+}
+.desc-yu-djum h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  margin-bottom: 3rem;
+}
+.menu-yu-djum {
+  padding-top: 10em;
+}
+.daftar-harga-yu-djum {
+  padding-top: 10em;
+}
+.desc-raminten .row .desc-raminten-img {
+  flex: 1 1 20rem;
+}
+.desc-raminten .row .desc-raminten-img img {
+  width: 490px;
+  height: 340px;
+  padding-left: 16px;
+  padding-top: 0.7rem;
+}
+.desc-raminten .row .content {
+  flex: 1 1 45rem;
+  padding: 0 1rem;
+}
+.desc-raminten .row .content h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+.desc-raminten .row .content p {
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
+  font-weight: 100;
+  line-height: 1.6;
+  padding-top: 2rem;
+}
+.desc-raminten h2 {
+  padding: 4rem 7% 0;
+}
+.desc-raminten h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  margin-bottom: 3rem;
+}
+.menu-raminten {
+  padding-top: 10em;
+}
+.daftar-harga-raminten {
+  padding-top: 5em;
+}
+.desc-baleraos .row .desc-baleraos-img {
+  flex: 1 1 20rem;
+}
+.desc-baleraos .row .desc-baleraos-img img {
+  width: 490px;
+  height: 340px;
+  padding-left: 16px;
+  padding-top: 0.7rem;
+}
+.desc-baleraos .row .content {
+  flex: 1 1 45rem;
+  padding: 0 1rem;
+}
+.desc-baleraos .row .content h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+.desc-baleraos .row .content p {
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
+  font-weight: 100;
+  line-height: 1.6;
+  padding-top: 2rem;
+}
+.desc-baleraos h2 {
+  padding: 4rem 7% 0;
+}
+.desc-baleraos h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  margin-bottom: 3rem;
+}
+.menu-baleraos {
+  padding-top: 10em;
+}
+.daftar-harga-baleraos {
+  padding-top: 5.5em;
+}
+table,
+th,
+td {
+  border: solid 2px;
+}
+
+.desc-pempek-ny-kamto .row .desc-ny-kamto-img {
+  flex: 1 1 20rem;
+}
+.desc-pempek-ny-kamto .row .desc-ny-kamto-img img {
+  width: 490px;
+  height: 340px;
+  padding-left: 16px;
+  padding-top: 0.7rem;
+}
+.desc-pempek-ny-kamto .row .content {
+  flex: 1 1 45rem;
+  padding: 0 1rem;
+}
+.desc-pempek-ny-kamto .row .content h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+.desc-pempek-ny-kamto .row .content p {
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
+  font-weight: 100;
+  line-height: 1.6;
+  padding-top: 4rem;
+}
+.desc-pempek-ny-kamto h2 {
+  padding: 4rem 7% 0;
+}
+.desc-pempek-ny-kamto h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  margin-bottom: 3rem;
+}
+.menu-ny-kamto {
+  padding-top: 10em;
+}
+.daftar-harga-ny-kamto {
+  padding-top: 5.5em;
+}
+.desc-warung-ss .row .desc-warung-ss-img {
+  flex: 1 1 20rem;
+}
+.desc-warung-ss .row .desc-warung-ss-img img {
+  width: 490px;
+  height: 340px;
+  padding-left: 16px;
+  padding-top: 0.7rem;
+}
+.desc-warung-ss .row .content {
+  flex: 1 1 45rem;
+  padding: 0 1rem;
+}
+.desc-warung-ss .row .content h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+.desc-warung-ss .row .content p {
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
+  font-weight: 100;
+  line-height: 1.6;
+  padding-top: 4rem;
+}
+.desc-warung-ss h2 {
+  padding: 4rem 7% 0;
+}
+.desc-warung-ss h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  margin-bottom: 3rem;
+}
+.menu-warung-ss {
+  padding-top: 10em;
+}
+.daftar-harga-warung-ss {
+  padding-top: 5.5em;
+}
+.desc-steak-and-shake .row .desc-steak-and-shake-img {
+  flex: 1 1 20rem;
+}
+.desc-steak-and-shake .row .desc-steak-and-shake-img img {
+  width: 490px;
+  height: 340px;
+  padding-left: 16px;
+  padding-top: 0.7rem;
+}
+.desc-steak-and-shake .row .content {
+  flex: 1 1 45rem;
+  padding: 0 1rem;
+}
+.desc-steak-and-shake .row .content h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+.desc-steak-and-shake .row .content p {
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
+  font-weight: 100;
+  line-height: 1.6;
+  padding-top: 4rem;
+}
+.desc-steak-and-shake h2 {
+  padding: 4rem 7% 0;
+}
+.desc-steak-and-shake h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  margin-bottom: 3rem;
+}
+.menu-steak-and-shake {
+  padding-top: 10em;
+}
+.daftar-harga-steak-and-shake {
+  padding-top: 10em;
+}
