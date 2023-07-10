@@ -42,6 +42,14 @@ svg {
   line-height: 1.6;
   padding-top: 2rem;
 }
+.desc-yu-djum h2 {
+  padding: 4rem 7% 0;
+}
+.desc-yu-djum h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  margin-bottom: 3rem;
+}
 .desc-yu-djum .row .location {
   padding-left: 30px;
   padding-top: 0.7rem;
@@ -51,14 +59,6 @@ svg {
   font-weight: 100;
   line-height: 1.6;
   padding-top: 2rem;
-}
-.desc-yu-djum h2 {
-  padding: 4rem 7% 0;
-}
-.desc-yu-djum h2 {
-  text-align: center;
-  font-size: 2.6rem;
-  margin-bottom: 3rem;
 }
 .menu-yu-djum {
   padding-top: 10em;
@@ -90,6 +90,14 @@ svg {
   line-height: 1.6;
   padding-top: 2rem;
 }
+.desc-raminten h2 {
+  padding: 4rem 7% 0;
+}
+.desc-raminten h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  margin-bottom: 3rem;
+}
 .desc-raminten .row .location {
   padding-left: 30px;
   padding-top: 0.7rem;
@@ -99,14 +107,6 @@ svg {
   font-weight: 100;
   line-height: 1.6;
   padding-top: 2rem;
-}
-.desc-raminten h2 {
-  padding: 4rem 7% 0;
-}
-.desc-raminten h2 {
-  text-align: center;
-  font-size: 2.6rem;
-  margin-bottom: 3rem;
 }
 .menu-raminten {
   padding-top: 10em;
@@ -145,6 +145,16 @@ svg {
   text-align: center;
   font-size: 2.6rem;
   margin-bottom: 3rem;
+}
+.desc-baleraos .row .location {
+  padding-left: 30px;
+  padding-top: 0.7rem;
+  flex: 1 1 45rem;
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
+  font-weight: 100;
+  line-height: 1.6;
+  padding-top: 2rem;
 }
 .menu-baleraos {
   padding-top: 10em;
