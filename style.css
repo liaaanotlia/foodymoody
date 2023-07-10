@@ -200,6 +200,16 @@ td {
   font-size: 2.6rem;
   margin-bottom: 3rem;
 }
+.desc-pempek-ny-kamto .row .location {
+  padding-left: 30px;
+  padding-top: 0.7rem;
+  flex: 1 1 45rem;
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
+  font-weight: 100;
+  line-height: 1.6;
+  padding-top: 2rem;
+}
 .menu-ny-kamto {
   padding-top: 10em;
 }
