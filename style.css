@@ -4,6 +4,9 @@ svg {
 .about-section {
   padding-top: 4em;
 }
+.about-section .row {
+  padding-top: 1em;
+}
 .about-section .card {
   text-align: center;
 }
@@ -12,7 +15,6 @@ svg {
 }
 .about-section p {
   text-align: justify;
-  padding-bottom: 1em;
 }
 .recommendation-section {
   padding-top: 4em;
